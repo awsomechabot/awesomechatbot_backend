@@ -116,6 +116,7 @@ app.post("/records", (req, res) => {
     res.send({ message: "진료기록 추가" });
   });
 });
+
 mongoClient.connect(url, (err, db) => {
   if (err) {
     console.log("Error while connecting mongo client");
