@@ -111,7 +111,6 @@ app.post("/records", (req, res) => {
       res.end();
       return;
     }
-
     console.log("진료기록 데이터 추가함.");
     res.send({ message: "진료기록 추가" });
   });
