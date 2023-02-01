@@ -1,6 +1,6 @@
 **Video**
 <br>
-Link : [AWESOME CHATBOT_발달장애인건강체크챗봇 시연 영상](https://www.youtube.com/watch?v=DzxUDhtKZTM)
+- Link : [AWESOME CHATBOT_발달장애인건강체크챗봇 시연 영상](https://www.youtube.com/watch?v=DzxUDhtKZTM)
 
 ## ✍️ 요약
 - 사용 대상
