@@ -1,4 +1,5 @@
 **Video**
+<br>
 [AWESOME CHATBOT_발달장애인건강체크챗봇 시연 영상](https://www.youtube.com/watch?v=DzxUDhtKZTM)
 
 ## ✍️ 요약
@@ -20,6 +21,5 @@
     - 의료 기록 정보, 병원 예약
 
 ## 🛠 사용 기술 및 라이브러리
-
 - Android, Kotlin
 - Node.js, MongoDB
