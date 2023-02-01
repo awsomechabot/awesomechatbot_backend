@@ -3,10 +3,8 @@
 [AWESOME CHATBOT_발달장애인건강체크챗봇 시연 영상](https://www.youtube.com/watch?v=DzxUDhtKZTM)
 
 ## ✍️ 요약
-![스크린샷 2023-01-15 오후 4.55.22.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4b96efaa-8559-47f9-83f3-1914c43dafac/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-01-15_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_4.55.22.png)
-
-
-![스크린샷 2023-01-15 오후 4.55.33.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aecd9138-9677-411b-ba22-d63674133247/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-01-15_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_4.55.33.png)
+<img width="705" alt="스크린샷 2023-01-15 오후 4 55 22" src="https://user-images.githubusercontent.com/62551459/215962653-bfe955c9-c9f8-40f4-8a4f-0bb3f14595dc.png">
+<img width="733" alt="스크린샷 2023-01-15 오후 4 55 33" src="https://user-images.githubusercontent.com/62551459/215962675-e680bc80-3ba6-42d1-84b3-3ae75037ab6b.png">
 
 - 사용 대상
     - 발달장애인
