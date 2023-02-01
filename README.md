@@ -1,11 +1,8 @@
 **Video**
 <br>
-[AWESOME CHATBOT_발달장애인건강체크챗봇 시연 영상](https://www.youtube.com/watch?v=DzxUDhtKZTM)
+Link : [AWESOME CHATBOT_발달장애인건강체크챗봇 시연 영상](https://www.youtube.com/watch?v=DzxUDhtKZTM)
 
 ## ✍️ 요약
-<img width="705" alt="스크린샷 2023-01-15 오후 4 55 22" src="https://user-images.githubusercontent.com/62551459/215962653-bfe955c9-c9f8-40f4-8a4f-0bb3f14595dc.png">
-<img width="733" alt="스크린샷 2023-01-15 오후 4 55 33" src="https://user-images.githubusercontent.com/62551459/215962675-e680bc80-3ba6-42d1-84b3-3ae75037ab6b.png">
-
 - 사용 대상
     - 발달장애인
 - 문제 의식
@@ -17,6 +14,9 @@
     - 주변 병원 지도 추천
     - 건강 자가 진단 ACC 그림 카드
     - 의료 기록 정보, 병원 예약
+ 
+<img width="705" alt="스크린샷 2023-01-15 오후 4 55 22" src="https://user-images.githubusercontent.com/62551459/215962653-bfe955c9-c9f8-40f4-8a4f-0bb3f14595dc.png">
+<img width="733" alt="스크린샷 2023-01-15 오후 4 55 33" src="https://user-images.githubusercontent.com/62551459/215962675-e680bc80-3ba6-42d1-84b3-3ae75037ab6b.png">
 
 ## 🛠 사용 기술 및 라이브러리
 - Android, Kotlin
