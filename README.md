@@ -1,12 +1,16 @@
 # AWESOME CHATBOT
 **챗봇과 ACC 카드를 이용한 발달 장애인의 의료 진단을 위한 서비스**
+
 <br>
+
 **Date**
 : 2022.01~ 2022.03
 <br>
+
 **Team**
 : 2인 (FE/BE 구분 없이 진행)
 <br>
+
 **Video**
 <br>
 - Link : [AWESOME CHATBOT_발달장애인건강체크챗봇 시연 영상](https://www.youtube.com/watch?v=DzxUDhtKZTM)
